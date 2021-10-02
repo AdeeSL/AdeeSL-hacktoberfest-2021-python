@@ -1,1 +1,1 @@
-# AdeeSL-hacktoberfest-2021-python
+hacktoberfest-2021-python
